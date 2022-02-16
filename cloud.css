@@ -1,4 +1,65 @@
+body.one{
+    overflow: scroll;
+}
 h1{
-    font-weight: 200;
+    text-align: left;
+    font-weight: 130;
     font-family: Arial, Helvetica, sans-serif;
+}
+footer, header, nav, section {
+	display: block;}
+section.two{
+    width: 150;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    float: left;
+    font-size: 100;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: lightslategrey;
+}
+ul{
+    list-style: none;
+}
+a{
+    padding-top: 20px;
+}
+section.Element1{
+    min-width: 320px;
+    max-width: 650px;
+    min-height: 10px;
+    max-height: 100px;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    float: right;
+}
+section.Element2{
+    min-width: 320px;
+    max-width: 650px;
+    min-height: 10px;
+    max-height: 100px;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    float: right;
+}
+section.Element3{
+    min-width: 320px;
+    max-width: 650px;
+    min-height: 10px;
+    max-height: 100px;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    float: right;
+}
+section.Element4{
+    min-width: 320px;
+    max-width: 650px;
+    min-height: 10px;
+    max-height: 100px;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    float: right;
 }
